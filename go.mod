@@ -1,0 +1,1 @@
+module github.com/hastingsyeung/go-playground
